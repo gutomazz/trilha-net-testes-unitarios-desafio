@@ -1,10 +1,14 @@
 # DIO - Trilha .NET - Testes Unitários com C#
-www.dio.me
+Realizado por Gustavo Thomaz.
 
 ## Desafio de projeto
-Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de Testes Unitários com C#, da trilha .NET da DIO.
+Um projeto utilizando meus conhecimentos de Testes Unitários com C#, que aprendi na trilha .NET da DIO.
 
-## Contexto
+## Como o ChatGpt me ajudou?
+Acho muito interessante em como o ChatGPT pode nos ajudar a estudar. Muitas coisas que estamos com dúvidas e dificuldades, ao saber usar o ChatGPT temos uma infinidade de possibilidades que podemos fazer. Deixo aqui um link de uma "Conversa" com a IA onde ela me ajudou a resolver essa questão. Não é só copiar e colar, ela te explica e identifica as oportunidades. Cabe a você saber utilizar as ferramentas ao seu favor sem roubar, porque querendo ou não estamos falando de aprendizado.
+
+
+## Especificações do desafio de projeto (DIO)
 Você está trabalhando em um sistema, e seus gestores relataram que frequentemente há problemas no software: bugs, funcionalidades que estavam funcionando de repente não funcionam mais, problemas de validações, entre outros. Os clientes já começam a duvidar da qualidade do código.
 
 Feito isso, você sugeriu a implementação de testes unitários: escrever testes cobrindo as partes mais críticas do sistema, com cenários positivos e negativos, a fim de ter uma rastreabilidade e controle do código, melhorando assim a qualidade desse sistema.
