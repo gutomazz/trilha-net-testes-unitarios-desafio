@@ -7,6 +7,8 @@ Um projeto utilizando meus conhecimentos de Testes Unitários com C#, que aprend
 ## Como o ChatGpt me ajudou?
 Acho muito interessante em como o ChatGPT pode nos ajudar a estudar. Muitas coisas que estamos com dúvidas e dificuldades, ao saber usar o ChatGPT temos uma infinidade de possibilidades que podemos fazer. Deixo aqui um link de uma "Conversa" com a IA onde ela me ajudou a resolver essa questão. Não é só copiar e colar, ela te explica e identifica as oportunidades. Cabe a você saber utilizar as ferramentas ao seu favor sem roubar, porque querendo ou não estamos falando de aprendizado.
 
+Link > https://chat.openai.com/share/55255b43-78fc-4e15-a2b5-a56bbe6fbc46
+
 
 ## Especificações do desafio de projeto (DIO)
 Você está trabalhando em um sistema, e seus gestores relataram que frequentemente há problemas no software: bugs, funcionalidades que estavam funcionando de repente não funcionam mais, problemas de validações, entre outros. Os clientes já começam a duvidar da qualidade do código.
